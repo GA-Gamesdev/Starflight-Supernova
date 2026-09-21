@@ -1,4 +1,4 @@
-# Rendream.js docs
+# Starflight supernova (rendream) docs
 
 
 
@@ -125,8 +125,6 @@ checks if a key is pressed
 ###### checkCollision(ObjectA, ObjectB)
 
 checks collision between two objects
-
-when checking collision, use "up", "down", "left", "right" for specific checks
 
 
 
