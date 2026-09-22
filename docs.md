@@ -159,6 +159,7 @@ set Rendream level property
 
 
 
+
 ###### addBlankObject(x,y,width,height,color,id)
 
 add a blank object
@@ -183,3 +184,5 @@ changes text object text
 
 runs `callback` when UIButton object is clicked
 
+
+the game viewport size is 1000px by 1000px
