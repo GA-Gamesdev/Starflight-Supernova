@@ -13,3 +13,6 @@ a simple to learn and use JavaScript based game engine with so many features suc
 
 after this, go read the docs
 https://github.com/GA-Gamesdev/Starflight-Supernova/wiki
+
+web editor:
+https://starflight.gagames.net
