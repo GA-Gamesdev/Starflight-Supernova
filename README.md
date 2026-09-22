@@ -11,3 +11,5 @@ a simple to learn and use JavaScript based game engine with so many features suc
 -   easy to use level system
 - quick to learn editor
 
+after this, go read the docs
+https://github.com/GA-Gamesdev/Starflight-Supernova/wiki
